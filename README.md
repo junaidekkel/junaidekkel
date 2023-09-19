@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Junaid Afzal 👋
 
-<!--
-**junaidekkel/junaidekkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate AI engineer with a focus on cutting-edge technologies and solutions. My goal is to leverage artificial intelligence to drive innovation and solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 AI Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Technology | Badge |
+|------------|-------|
+| Python     | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| TensorFlow | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| PyTorch    | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| NLP        | ![NLP](https://img.shields.io/badge/NLP-49A1F2?style=for-the-badge&logo=natural-language-processing&logoColor=white) |
+| CV         | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3776AB?style=for-the-badge&logoColor=white) |
+| RL         | ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge&logoColor=white) |
+| Data Science   | ![Data Science](https://img.shields.io/badge/Data%20Science-EE4C2C?style=for-the-badge&logoColor=white) |
+
