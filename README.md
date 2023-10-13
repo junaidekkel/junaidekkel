@@ -1,6 +1,10 @@
 # Hi, I'm Junaid Afzal 👋
+<div align="right">
+  <img src="https://api.daily.dev/devcards/eaf05a6a22804dd490110dfb9e8f6447.png?r=rhr" width="260" alt="The Junaid Afzal's Dev Card" style="float: right;">
+</div>
+I'm a passionate AI engineer with a focus on cutting-edge technologies and solutions. 
+My goal is to leverage artificial intelligence to drive innovation and solve real-world problems.
 
-I'm a passionate AI engineer with a focus on cutting-edge technologies and solutions. My goal is to leverage artificial intelligence to drive innovation and solve real-world problems.
 
 ## 🔧 AI Technologies
 
